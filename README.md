@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deimerhdz&label=Profile%20views&color=0e75b6&style=flat" alt="deimerhdz" /> </p>
 
-- 🔭 I’m currently working on [cogapp](https://github.com/deimerhdz/cogapp)
 
 - 🌱 I’m currently learning **English, Docker and Microservices.**
 
