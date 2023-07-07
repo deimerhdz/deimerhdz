@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deimer Hernandez</h1>
-<h3 align="center">A passionate full stack developer junior, i'm from Colombia, I like to watch movies and spend time with my family.</h3>
+<h3 align="center">A passionate full stack developer, i'm from Colombia, I like to watch movies and spend time with my family.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deimerhdz&label=Profile%20views&color=0e75b6&style=flat" alt="deimerhdz" /> </p>
 
